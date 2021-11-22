@@ -1,0 +1,170 @@
+.page-container {
+    display: flex;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 100px 10vw;
+}
+
+.nav-head-container > img {
+    width: 174px;
+    height: 48px;
+}
+
+.nav-head-container {
+    padding: 30px 10vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+
+}
+ #main-nav-search {
+    margin: 0;
+    width: 480px;
+    height: 44px;
+
+}
+ .nav-search {
+    display: flex;
+     justify-content: center;
+ }
+
+ .nav-btn {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 50px;
+     width: 80px;
+     margin-left:0;
+     padding: 1px 2px;
+ }
+
+ .nav-bell {
+     padding: 0 40px;
+ }
+
+.nav-sign-in {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-sign-in > img {
+    width: 20px;
+    height: 20px;
+}
+
+.main-nav-links {
+    padding: 50px 10vw;
+
+}
+
+.main-nav-links ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding:0;
+}
+
+
+
+main {
+    max-width: 70%;
+}
+
+.main-hero {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.main-hero > img {
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+
+}
+
+.hero-content {
+    padding: 1em;
+}
+
+.featured {
+    display: flex;
+}
+
+.featured-item > img {
+    width: 100px;
+    height: auto;
+}
+
+.story-item {
+    display: flex;
+}
+
+aside {
+    width: 30%;
+    margin-left: auto;
+}
+
+.aside-title {
+    display: flex;
+}
+
+.teams {
+    display: flex;
+    flex-direction: column;
+}
+
+.score-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sports-days {
+    display: flex;
+
+}
+.sports-days a {
+    margin-right: 5px;
+    text-decoration: none;
+    color: black;
+}
+select {
+    border: none;
+}
+
+.game-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.weather-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.weather-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul > li a{
+    text-decoration: none;
+}
+.aside-container {
+    padding: 0 2em;
+}
+aside > ol {
+    display: flex;
+
+
+}
+li a{
+    text-decoration:none ;
+}
