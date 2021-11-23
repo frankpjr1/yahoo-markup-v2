@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69f6fcab-90bc-4167-83d9-392feb9b0ee6" name="Changes" comment="changed the styles on the featured content">
+    <list default="true" id="69f6fcab-90bc-4167-83d9-392feb9b0ee6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -68,7 +70,8 @@
       <workItem from="1637197361127" duration="362000" />
       <workItem from="1637540897960" duration="26784000" />
       <workItem from="1637598625759" duration="1525000" />
-      <workItem from="1637667164702" duration="8233000" />
+      <workItem from="1637667164702" duration="15203000" />
+      <workItem from="1637699707632" duration="3718000" />
     </task>
     <task id="LOCAL-00001" summary="added comments to css style sheet">
       <created>1637574225014</created>
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637670973448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed featured img format back by using img tag">
+      <created>1637675585214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637675585214</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +104,7 @@
     <MESSAGE value="added comments to css style sheet" />
     <MESSAGE value="refined styles in aside and main" />
     <MESSAGE value="changed the styles on the featured content" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the styles on the featured content" />
+    <MESSAGE value="changed featured img format back by using img tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed featured img format back by using img tag" />
   </component>
 </project>
