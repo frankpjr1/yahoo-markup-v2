@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69f6fcab-90bc-4167-83d9-392feb9b0ee6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="69f6fcab-90bc-4167-83d9-392feb9b0ee6" name="Changes" comment="changed the styles on the featured content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -69,7 +68,7 @@
       <workItem from="1637197361127" duration="362000" />
       <workItem from="1637540897960" duration="26784000" />
       <workItem from="1637598625759" duration="1525000" />
-      <workItem from="1637667164702" duration="3673000" />
+      <workItem from="1637667164702" duration="8233000" />
     </task>
     <task id="LOCAL-00001" summary="added comments to css style sheet">
       <created>1637574225014</created>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637574225014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refined styles in aside and main">
+      <created>1637670973448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637670973448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added comments to css style sheet" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments to css style sheet" />
+    <MESSAGE value="refined styles in aside and main" />
+    <MESSAGE value="changed the styles on the featured content" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the styles on the featured content" />
   </component>
 </project>

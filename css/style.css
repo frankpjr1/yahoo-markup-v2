@@ -103,10 +103,16 @@ main {
 .hero-content {
     padding: 1em;
 }
+
+.hero-content h2 {
+    margin-top: 0;
+}
 /*Featured article*/
 .featured {
     display: flex;
 }
+
+
 
 .featured-item > img {
     width: 100px;
@@ -115,20 +121,40 @@ main {
 
 .featured-article {
     display: flex;
-    margin:0 30px;
+    align-items: flex-start;
+    margin:30px 0;
 }
 
-.featured-article > h2,p {
-    margin: 0;
+.featured-article  h2 {
+        margin-top: 0;
 }
-
+.featured-article p {
+    margin-top: 0;
+}
 .featured-title {
     display: flex;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.featured-title >h5,h4 {
+    padding-right: 30px;
+    margin-top: 0;
+
+}
+
+
+
+.featured-title span {
+    padding-right: 30px;
+
 }
 
 .featured-article img {
-    width: 268px;
-    height: 142px;
+    width:268px;
+    height: auto;
+    object-fit: cover;
+    padding-right: 20px;
 }
 
 .story-item {
@@ -143,10 +169,20 @@ aside {
 .gift {
     width: 20px;
     height: 20px;
+    position: absolute;
+    top:16px;
+
+
+
 }
 
 .aside-title {
     display: flex;
+    position: relative;
+}
+
+.aside-title > p {
+    margin-right: 20px;
 }
 
 .teams {
