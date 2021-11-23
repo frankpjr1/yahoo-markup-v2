@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69f6fcab-90bc-4167-83d9-392feb9b0ee6" name="Changes" comment="">
+    <list default="true" id="69f6fcab-90bc-4167-83d9-392feb9b0ee6" name="Changes" comment="changed the featured articles margin and fit the images properly.">
       <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +67,7 @@
       <workItem from="1637540897960" duration="26784000" />
       <workItem from="1637598625759" duration="1525000" />
       <workItem from="1637667164702" duration="15203000" />
-      <workItem from="1637699707632" duration="3718000" />
+      <workItem from="1637699707632" duration="4047000" />
     </task>
     <task id="LOCAL-00001" summary="added comments to css style sheet">
       <created>1637574225014</created>
@@ -94,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637675585214</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed the featured articles margin and fit the images properly.">
+      <created>1637703669431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637703669431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +108,7 @@
     <MESSAGE value="refined styles in aside and main" />
     <MESSAGE value="changed the styles on the featured content" />
     <MESSAGE value="changed featured img format back by using img tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed featured img format back by using img tag" />
+    <MESSAGE value="changed the featured articles margin and fit the images properly." />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the featured articles margin and fit the images properly." />
   </component>
 </project>
