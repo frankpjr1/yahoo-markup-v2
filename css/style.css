@@ -103,7 +103,7 @@ main {
 .hero-content {
     padding: 1em;
 }
-
+/*Featured article*/
 .featured {
     display: flex;
 }
@@ -113,13 +113,36 @@ main {
     height: auto;
 }
 
+.featured-article {
+    display: flex;
+    margin:0 30px;
+}
+
+.featured-article > h2,p {
+    margin: 0;
+}
+
+.featured-title {
+    display: flex;
+}
+
+.featured-article img {
+    width: 268px;
+    height: 142px;
+}
+
 .story-item {
     display: flex;
 }
 
 aside {
     width: 30%;
-    margin-left: auto;
+
+}
+
+.gift {
+    width: 20px;
+    height: 20px;
 }
 
 .aside-title {
@@ -129,6 +152,11 @@ aside {
 .teams {
     display: flex;
     flex-direction: column;
+}
+
+.team-name img {
+    width: 24px;
+    height: 24px;
 }
 
 .score-title {
@@ -177,4 +205,27 @@ aside > ol {
 }
 li a{
     text-decoration:none ;
+}
+
+
+/*horoscope content*/
+
+.horoscope-content {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.horoscope-content img {
+    width: 80px;
+    height: 80px;
+}
+
+.horoscope-content p span {
+    font-weight: bold;
+}
+
+.horoscope-title {
+    display: flex;
+    justify-content: space-between;
 }
