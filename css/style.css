@@ -208,6 +208,10 @@ aside {
     margin-right: 20px;
 }
 
+aside ol {
+    column-count: 2;
+}
+
 .teams {
     display: flex;
     flex-direction: column;
